@@ -73,13 +73,13 @@ public class Main {
 					case 7:
 						System.out.print(name.get(6));
 						break;
-					case 8:
+					case 0:
 						System.out.print("結算");
 						break;
 					default:
 						break;
-					}}
-					System.out.println("\t"+m + "份");
+					}
+					System.out.println("\t"+m + "份");}
 					System.out.println("=================");
 				} catch (IOException e) {
 					// TODO Auto-generated catch block
